@@ -1,4 +1,4 @@
-##Sentiment Analysis and Job Title Prediction sections.
+# Sentiment Analysis on LinkedIn & Job Title Prediction
 
 ## Project Overview
 This project is a Streamlit application that analyzes job listings from LinkedIn. It provides two main functionalities: sentiment analysis of job descriptions and prediction of job attributes based on job titles.
